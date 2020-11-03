@@ -1,0 +1,39 @@
+.video-box {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2vh;
+  padding: 3vh;
+  width: 80%;
+  height: 70%;
+}
+
+.video-box iframe {
+  width: 100%;
+  height: 64vh
+}
+
+.video-description {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2vh;
+  padding-top: 1vh;
+  padding-left: 4vw;
+  padding-right: 4vw;
+}
+
+.video-title {
+  display: block;
+  float: left;
+}
+
+.video-arrows {
+  display: block;
+  float: right;
+}
+
+.video-arrows span {
+  margin: 1em;
+}
